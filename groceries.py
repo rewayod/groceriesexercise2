@@ -33,6 +33,8 @@ def to_usd(my_price):
     
 # Part 1
 print("--------------")
+print("THERE ARE " + str(len(products)) + " PRODUCTS:")
+print("THERE ARE", len(products), "PRODUCTS:")
 print(f"THERE ARE {len(products)} PRODUCTS:")
 print("--------------")
 
